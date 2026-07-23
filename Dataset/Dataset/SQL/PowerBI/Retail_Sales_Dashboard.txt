@@ -1,4 +1,0 @@
-Power BI dashboard file will be added here.
-
-File name:
-Retail_Sales_Dashboard.pbix
